@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yazzz28" alt="yazzz28" /></a> </p>
 
-- 🌱 I’m currently learning **Symfony, Api-Platform**
+- 🌱 I’m currently learning **Angular, Java**
 
 - 👨‍💻 All of my projects are available at [https://mennaa-yacine.fr/](https://mennaa-yacine.fr/)
 
